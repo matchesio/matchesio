@@ -1,16 +1,16 @@
-## Hi there 👋
+# Matchesio
 
-<!--
-**matchesio/matchesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matchesio** helps you **download and subscribe to football fixtures calendars** in **ICS**, **CSV**, and **JSON**.
 
-Here are some ideas to get you started:
+👉 Website: https://www.matchesio.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you can do
+- Subscribe via **ICS** (works with Google Calendar, Apple Calendar, Outlook, etc.)
+- Download fixtures as **CSV/JSON**
+- Browse calendars by competition and country
+
+## Popular calendars
+- Serie A (Italy): https://www.matchesio.com/it/calendario-serie-a-google-calendar/
+- UEFA Champions League: https://www.matchesio.com/uefa-champions-league-google-calendar/
+- Premier League: https://www.matchesio.com/premier-league-google-calendar/
+- La Liga (Spain): https://www.matchesio.com/it/calendario-la-liga-google-calendar/
