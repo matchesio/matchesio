@@ -6,7 +6,7 @@
 
 ## What you can do
 - Subscribe via **ICS** (works with Google Calendar, Apple Calendar, Outlook, etc.)
-- Download fixtures as **CSV/JSON**
+- Download fixtures as **CSV/JSON/XLSX/Excel**
 - Browse calendars by competition and country
 
 ## Popular calendars
