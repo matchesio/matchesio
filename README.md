@@ -1,12 +1,12 @@
 # Matchesio
 
-**Matchesio** helps you **download and subscribe to football fixtures calendars** in **ICS**, **CSV**, **JSON**, **XLSX**, **Excel**.
+**Matchesio** helps you **download and subscribe to football fixtures calendars** in **ICS**, **CSV**, **JSON**, **XLSX/Excel**.
 
 👉 Website: https://www.matchesio.com/
 
 ## What you can do
 - Subscribe via **ICS** (works with Google Calendar, Apple Calendar, Outlook, etc.)
-- Download fixtures as **CSV/JSON/XLSX/Excel**
+- Download fixtures as **ICS/CSV/JSON/XLSX/Excel**
 - Browse calendars by competition and country
 
 ## Popular calendars
